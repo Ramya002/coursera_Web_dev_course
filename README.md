@@ -1,3 +1,3 @@
-# coursera_Web_dev_course
+# Coursera - HTML, CSS and JS course
 
 Module 2 Assignment Solution
