@@ -1,6 +1,17 @@
 * {
     box-sizing: border-box;
   }
+
+  #Chicken{
+    background-color: lightblue;
+  }
+  #Beef{
+      background-color: lightgreen;
+  }
+  #Sushi{
+      background-color: wheat;
+  }
+
   
   h1 {
     text-align: center;
@@ -16,7 +27,6 @@
     margin-left: auto;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
-    clear: left;
   }
   
   .row {
@@ -182,7 +192,6 @@
     font-weight: bold;
     border-color: black;
     border-style: solid;
-    background-color: lightblue;
     width: min-content;
     text-align: right;
     font-style: bold;
